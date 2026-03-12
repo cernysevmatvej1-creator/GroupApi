@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Project\\GroupApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\infrastructure\\repotisory\\firebasetokenrepotisiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\infrastructure\\repotisory\\firebasetokenrepotisiory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\infrastructure\\repotisory\\firebaseauthrepotisorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\infrastructure\\repotisory\\firebaseauthrepotisorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\doamin\\interfais\\ifirebasetokenrepotisory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\doamin\\interfais\\ifirebasetokenrepotisory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u041C\u0430\u0442\u0432\u0435\u0439\\Downloads\\google-services (2).json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\doamin\\interfais\\ifirebaseauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\doamin\\interfais\\ifirebaseauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\doamin\\efenties-models\\firebaseauthcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\doamin\\efenties-models\\firebaseauthcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\aplacation\\servies\\firebaseauthserivsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\aplacation\\servies\\firebaseauthserivsecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\aplacation\\interfaceservies\\ifirebaseauthservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\aplacation\\interfaceservies\\ifirebaseauthservies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\groupapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\groupapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\doamin\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\doamin\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|c:\\project\\groupapi\\groupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7ECFB5BF-177A-B23C-3D3C-33B69A3754E9}|GroupApi\\GroupApi.csproj|solutionrelative:groupapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Program.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Program.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Program.cs",
+              "RelativeToolTip": "GroupApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:56:41.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "GroupApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:41:29.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "google-services (2).json",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u0442\u0432\u0435\u0439\\Downloads\\google-services (2).json",
+              "RelativeDocumentMoniker": "..\\..\\Users\\\u041C\u0430\u0442\u0432\u0435\u0439\\Downloads\\google-services (2).json",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u0442\u0432\u0435\u0439\\Downloads\\google-services (2).json",
+              "RelativeToolTip": "..\\..\\Users\\\u041C\u0430\u0442\u0432\u0435\u0439\\Downloads\\google-services (2).json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T18:26:23.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFirebaseAuthServies.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Aplacation\\InterfaceServies\\IFirebaseAuthServies.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Aplacation\\InterfaceServies\\IFirebaseAuthServies.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Aplacation\\InterfaceServies\\IFirebaseAuthServies.cs",
+              "RelativeToolTip": "GroupApi\\Aplacation\\InterfaceServies\\IFirebaseAuthServies.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:02:33.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FirebaseAuthSerivsecs.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Aplacation\\Servies\\FirebaseAuthSerivsecs.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Aplacation\\Servies\\FirebaseAuthSerivsecs.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Aplacation\\Servies\\FirebaseAuthSerivsecs.cs",
+              "RelativeToolTip": "GroupApi\\Aplacation\\Servies\\FirebaseAuthSerivsecs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T18:00:24.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FireBaseAuthRepotisorycs.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Infrastructure\\Repotisory\\FireBaseAuthRepotisorycs.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Infrastructure\\Repotisory\\FireBaseAuthRepotisorycs.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Infrastructure\\Repotisory\\FireBaseAuthRepotisorycs.cs",
+              "RelativeToolTip": "GroupApi\\Infrastructure\\Repotisory\\FireBaseAuthRepotisorycs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:58:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IFirebaseAuth.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Interfais\\IFirebaseAuth.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Doamin\\Interfais\\IFirebaseAuth.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Interfais\\IFirebaseAuth.cs",
+              "RelativeToolTip": "GroupApi\\Doamin\\Interfais\\IFirebaseAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:56:54.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FireBaseTokenRepotisiory.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Infrastructure\\Repotisory\\FireBaseTokenRepotisiory.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Infrastructure\\Repotisory\\FireBaseTokenRepotisiory.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Infrastructure\\Repotisory\\FireBaseTokenRepotisiory.cs",
+              "RelativeToolTip": "GroupApi\\Infrastructure\\Repotisory\\FireBaseTokenRepotisiory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:49:38.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Doamin\\Common\\Result.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Common\\Result.cs",
+              "RelativeToolTip": "GroupApi\\Doamin\\Common\\Result.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:45:54.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\appsettings.json",
+              "RelativeDocumentMoniker": "GroupApi\\appsettings.json",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\appsettings.json",
+              "RelativeToolTip": "GroupApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-12T17:40:38.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFirebaseTokenRepotisory.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Interfais\\IFirebaseTokenRepotisory.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Doamin\\Interfais\\IFirebaseTokenRepotisory.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Interfais\\IFirebaseTokenRepotisory.cs",
+              "RelativeToolTip": "GroupApi\\Doamin\\Interfais\\IFirebaseTokenRepotisory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:40:36.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FirebaseAuthcs.cs",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Efenties-Models\\FirebaseAuthcs.cs",
+              "RelativeDocumentMoniker": "GroupApi\\Doamin\\Efenties-Models\\FirebaseAuthcs.cs",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\Doamin\\Efenties-Models\\FirebaseAuthcs.cs",
+              "RelativeToolTip": "GroupApi\\Doamin\\Efenties-Models\\FirebaseAuthcs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T17:31:25.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupApi.csproj",
+              "DocumentMoniker": "C:\\Project\\GroupApi\\GroupApi\\GroupApi.csproj",
+              "RelativeDocumentMoniker": "GroupApi\\GroupApi.csproj",
+              "ToolTip": "C:\\Project\\GroupApi\\GroupApi\\GroupApi.csproj",
+              "RelativeToolTip": "GroupApi\\GroupApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T19:20:00.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
