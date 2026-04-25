@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "GroupApi.Controllers.AuthFirebaseController",
+    "Method": "SignAnonimal",
+    "RelativePath": "api/AuthFirebase/auth-anonim",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "GroupApi.Controllers.AuthFirebaseController",
+    "Method": "GetIdToken",
+    "RelativePath": "api/AuthFirebase/get-token",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authin",
+        "Type": "GroupApi.Doamin.Efenties_Models.FirebaseAuthModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

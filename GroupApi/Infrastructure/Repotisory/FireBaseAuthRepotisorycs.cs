@@ -5,11 +5,18 @@ namespace GroupApi.Infrastructure.Repotisory
 {
     public class FireBaseAuthRepotisorycs : IFirebaseAuth
     {
+        private readonly IConfiguration _config;
+        public FireBaseAuthRepotisorycs(IConfiguration config)
+        {
+            _config = config;
+        }
+
         public async  Task<FirebaseAuthModel> SignAnonimalAsync()
         {
             try
             {
-                var authProvider = new FirebaseAuthProvider(new FirebaseConfig("AIzaSyCizHvDCDeFTpZ9ICNEgWTFjt5eBpqCLXg"));
+                string firebaseApiKey = _config["FirebaseApiKey"];
+                var authProvider = new FirebaseAuthProvider(new FirebaseConfig(firebaseApiKey));
                 var auth = await authProvider.SignInAnonymouslyAsync();
                 return  new FirebaseAuthModel { UserId = auth.User.LocalId, FireBaseRefreshToken = auth.RefreshToken, FireBaseToken = auth.FirebaseToken };
             }

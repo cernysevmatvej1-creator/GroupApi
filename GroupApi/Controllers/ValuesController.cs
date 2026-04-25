@@ -1,4 +1,5 @@
 ﻿using GroupApi.Aplacation.InterfaceServies;
+using GroupApi.Doamin.Efenties_Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -21,6 +22,16 @@ namespace GroupApi.Controllers
                 return BadRequest(new {error = "Ошибка в аутификации"});
             return Ok(firebaseauth);
         }
+        [HttpPost("get-token")]
+        public async Task<IActionResult> GetIdToken([FromBody] FirebaseAuthModel authin)
+        {
+            var firebaseauth = await _firebaseAuthServies.GetIdFirebaseToken(authin);
+            if (firebaseauth == null)
+                return BadRequest(new { error = "Ошибка в получении токена" });
+            return Ok(new { FireBaseToken  = firebaseauth});
+        }
+
+
 
     }
 }

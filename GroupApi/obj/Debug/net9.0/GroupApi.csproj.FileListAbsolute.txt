@@ -35,3 +35,4 @@ C:\Project\GroupApi\GroupApi\obj\Debug\net9.0\refint\GroupApi.dll
 C:\Project\GroupApi\GroupApi\obj\Debug\net9.0\GroupApi.pdb
 C:\Project\GroupApi\GroupApi\obj\Debug\net9.0\GroupApi.genruntimeconfig.cache
 C:\Project\GroupApi\GroupApi\obj\Debug\net9.0\ref\GroupApi.dll
+C:\Project\GroupApi\GroupApi\obj\Debug\net9.0\GroupApi.sourcelink.json

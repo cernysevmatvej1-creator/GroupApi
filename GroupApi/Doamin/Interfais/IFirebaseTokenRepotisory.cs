@@ -4,6 +4,6 @@ namespace GroupApi.Doamin.Interfais
 {
     public interface IFirebaseTokenRepotisory
     {
-        Task GetIdToken(FirebaseAuthModel firebaseAuth);
+        Task<string> GetIdToken(FirebaseAuthModel firebaseAuth);
     }
 }

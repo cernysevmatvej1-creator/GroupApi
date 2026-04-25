@@ -5,5 +5,6 @@ namespace GroupApi.Aplacation.InterfaceServies
     public interface IFirebaseAuthServies
     {
         Task<FirebaseAuthModel> SignAnonimalAsync();
+        Task<string> GetIdFirebaseToken(FirebaseAuthModel firebaseAuthModel);
     }
 }
